@@ -1,0 +1,3 @@
+[submodule "src/Infastructure/cardano-hw-cli"]
+	path = src/Infastructure/cardano-hw-cli
+	url = https://github.com/vacuumlabs/cardano-hw-cli
